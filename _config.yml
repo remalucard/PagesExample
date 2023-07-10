@@ -1,9 +1,8 @@
 # Setup
 
-title:            rem's site
-description:      site of remilia alucard.
-url: https://remalucard.github.io
-repository: remalucard/remalucard.github.io
+title:            Pages Example
+url: https://remalucard.github.io/PagesExample
+repository: remalucard/PagesExample
 
 permalink: pretty
 
@@ -21,13 +20,11 @@ search_enabled: true
 
 # back to top
 back_to_top: true
-back_to_top_text: "back up please"
+back_to_top_text: "Back To Top"
 
 #edit ig?
 gh_edit_link: false
 
-#footer
-footer_content: "idk this isn't copyrighted, theme is just the docs shoutout to them"
 
 #mermaid diagram
 mermaid:
